@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Avinash
 
-<!--
-**AVINASH-CD/AVINASH-CD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud & DevOps (Learning + Building)
 
-Here are some ideas to get you started:
+* BCA graduate
+* 1 year at Hexaware Technologies
+* Currently focused on AWS, Docker & CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* AWS (EC2, S3, IAM)
+* Docker
+* Git & GitHub
+* Linux
+* CI/CD (GitHub Actions)
+
+---
+
+What I’m currently working on:
+
+Deploying applications on AWS (EC2, S3)
+Building CI/CD pipelines using GitHub Actions
+Containerizing applications using Docker
+Learning Infrastructure as Code (Terraform)
+
+I am actively looking for entry-level opportunities in Cloud, DevOps, or Cloud Support roles.
+
+I believe in learning by building and improving every day.
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/avinashjena

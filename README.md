@@ -1,34 +1,54 @@
-# 👋 Hi, I'm Avinash
+# Avinash Jena
 
-🚀 Cloud & DevOps (Learning + Building)
+### Cybersecurity • Network Security • Linux • Python
 
-* BCA graduate
-* 1 year at Hexaware Technologies
-* Currently focused on AWS, Docker & CI/CD
+> Breaking things to understand them. Building things to secure them.
 
----
-
-## 🛠️ Tech Stack
-
-* AWS (EC2, S3, IAM)
-* Docker
-* Git & GitHub
-* Linux
-* CI/CD (GitHub Actions)
+I use this GitHub to document my cybersecurity journey through
+**hands-on projects, security research, automation, investigations, and labs.**
 
 ---
 
-What I’m currently working on:
+## 🔐 Projects
 
-Deploying applications on AWS (EC2, S3)
-Building CI/CD pipelines using GitHub Actions
-Containerizing applications using Docker
-Learning Infrastructure as Code (Terraform)
+### 🛡️ Cybersecurity
+Security tools, vulnerability analysis, threat investigation, and defensive security projects.
 
-I am actively looking for entry-level opportunities in Cloud, DevOps, or Cloud Support roles.
+### 🌐 Network Security
+Networking experiments, traffic analysis, network-security tools, and practical labs.
 
-I believe in learning by building and improving every day.
+### 🐍 Python for Security
+Security automation, reconnaissance tools, log analysis, and other Python-based projects.
 
-## 📫 Contact
+### 🐧 Linux Security
+Linux security experiments, scripts, system investigation, and hands-on labs.
 
-LinkedIn: https://www.linkedin.com/in/avinashjena
+### 🤖 AI × Cybersecurity
+Projects exploring how AI can be applied to security analysis, automation, and threat detection.
+
+---
+
+## 📂 Featured Projects
+
+> Projects will be added here as I build and document them.
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🔍 Coming Soon | Security Investigation Project | Python |
+| 🛡️ Coming Soon | Security Automation Tool | Python |
+| 🌐 Coming Soon | Network Security Project | Linux |
+| 🤖 Coming Soon | AI + Cybersecurity Project | Python / AI |
+
+---
+
+## 🧪 What you'll find here
+
+```text
+Projects
+├── Security Tools
+├── Network Security
+├── Threat Investigation
+├── Security Automation
+├── Linux
+├── Python
+└── AI + Cybersecurity
